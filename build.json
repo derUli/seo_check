@@ -1,0 +1,9 @@
+{
+	"id": "seo_check",
+	"version": "1.0",
+	"description": "Seobility SEO Check",
+	"categories": [
+		"seo"
+	],
+	"compatible_from": "2019.1"
+}
