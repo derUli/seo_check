@@ -1,5 +1,6 @@
 <?php
 use UliCMS\Security\PermissionChecker;
+use UliCMS\Helpers\ArrayHelper;
 
 class SeoCheckController extends MainClass
 {
